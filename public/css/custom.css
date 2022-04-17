@@ -1,0 +1,9 @@
+input{
+    border-color: red;
+}
+button{
+    background-color: blue;
+    border-radius: 2px;
+    color: white;
+    font-weight: 200;
+}
